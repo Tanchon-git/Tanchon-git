@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate full-stack developer
+# A passionate full-stack developer
 
 
 # 💻 Tech Stack:
